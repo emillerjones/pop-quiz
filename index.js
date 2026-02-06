@@ -57,6 +57,7 @@ if (stopcode === 0){
   }
 }
 
+
 if (stopcode === 0){
   const selectionInput3 = prompt(`Which is your favorite?
   [1] Adds that play constantly
@@ -84,8 +85,6 @@ if (stopcode === 0){
     }
   }
 }
-
-
 
 
 
